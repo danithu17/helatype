@@ -1,0 +1,7 @@
+{
+  "name": "HelaType Pro - Advanced Sinhala Assistant",
+  "description": "Professional Sinhala typing tool with real-time predictions, AI grammar correction, and voice typing. Designed for seamless content creation in Microsoft Word and social media.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
